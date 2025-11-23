@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OCR Kamera</string>
+    <string name="capture_button">Fénykép készítése</string>
+    <string name="result_label">Felismert számok:</string>
+    <string name="no_numbers_found">Nem találtam számokat a képen</string>
+    <string name="camera_permission_required">Kamera engedély szükséges a fényképek készítéséhez</string>
+    <string name="camera_permission_denied">Kamera engedély megtagadva. Kérlek, engedélyezd a beállításokban.</string>
+    <string name="image_capture_failed">Hiba történt a fénykép készítése során</string>
+    <string name="processing">Feldolgozás...</string>
+    <string name="tap_to_capture">Érintsd meg a gombot a fénykép készítéséhez</string>
+</resources>
