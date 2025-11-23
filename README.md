@@ -138,4 +138,4 @@ Ez a projekt oktatási célokra készült.
 
 ## Szerző
 
-Készítette: Antigravity AI Assistant
+Készítette: Csaba Mezei (supported by Antigravity AI Assistant)
